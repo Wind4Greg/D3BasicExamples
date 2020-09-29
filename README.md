@@ -25,3 +25,11 @@ Basics web development, see for example [Website Development for CS Majors](http
 ## Building Examples
 
 We prefer to use ES6 style imports and a bundler ([Parcel.js](https://parceljs.org/)) this way you don't need an internet connection when running the example.
+
+## D3 and React
+
+Examples for two "extreme" approaches: 
+1. "Giving the DOM to D3" in a Component
+2. D3 for everything but DOM manipulations.
+
+See [Bringing Together React, D3, And Their Ecosystem]()
